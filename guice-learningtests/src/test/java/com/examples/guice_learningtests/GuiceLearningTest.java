@@ -1,7 +1,6 @@
 package com.examples.guice_learningtests;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.assertj.core.api.Assertions.in;
 
 import org.junit.jupiter.api.Test;
 
